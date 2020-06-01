@@ -1,0 +1,110 @@
+.Title1 {
+    font-family: "Lemon Milk";
+    text-align: center;
+    padding-top: 13px;
+    color: #f0efee;
+    
+}
+.Title2 {
+    font-family: "Geo Sans";
+    text-align: center;
+    padding-top: 13px;
+    color: #f0efee;
+}
+.TitleS {
+    font-family: "Geo Sans";
+    text-align: center;
+    color: #f0efee;
+    font-size: x-large;
+    margin-left: auto;
+}
+.TitleC {
+    font-family: "Geo Sans";
+    text-align: center;
+    color: #f0efee;
+    font-size: x-large;
+    margin-right: 18%;
+}
+.ContainerT {
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: #4c4947;
+    min-height: 60px;
+    width: 1300px;
+    
+}
+.ContainerH {
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: #4c4947;
+    min-height: 60px;
+    width: 400px;
+    margin-left: 450px;
+
+}
+.Containers {
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: #4c4947;
+    width: 410px;
+    height: 655px;
+}
+.Grids {
+    display: grid;
+    grid-template-columns: 433px 433px 433px;
+    grid-gap: 10px;
+    height: 590px;
+    
+}
+.Images {
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 200px;
+    padding-top: 13px;
+}
+.Descrip {
+    font-family: "Geo Sans";
+    padding-left: 20px;
+    padding-right: 10px;
+    color: #f0efee;
+    font-size: x-large;
+}
+.More {
+    float: right;
+    height: 50px;
+    width: 50px;
+    padding-right: 30px;
+
+}
+.SearchI {
+    width: 1000px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: large;
+    margin-top: 15px;
+    background-color: #222022;
+    color: #efedef;
+    padding-left: 20px;
+    font-family: "Geo Sans";
+    font-size: x-large
+}
+
+
+@font-face {
+    font-family: "Geo Sans";
+    src: url(GeosansLight.ttf);
+}
+
+@font-face {
+    font-family: "Geo Sans Oblique";
+    src: url(GeosansLight-Oblique.ttf);
+}
+
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot");
+    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff") format("woff"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.svg#Lemon/Milk") format("svg");
+}

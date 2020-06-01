@@ -1,0 +1,60 @@
+.Chatb {
+    background-color: #4c4947;
+    height: 400px;
+    width: 800px;
+    text-align: right;
+    padding: 100px 30px 0 0;
+    font-size: xx-large;
+    font-family: "Geo Sans";
+    margin-top: 20px;
+    border-radius: 25px;
+}
+.Txtb {
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.Searchc {
+    width: 650px;
+    height: 40px;
+    border-radius: 25px;
+    font-size: large;
+    margin-left: 200px;
+    background-color: #222022;
+    color: #efedef;
+    padding-left: 20px;
+    font-family: "Geo Sans";
+    font-size: x-large;
+}
+
+.Bttn {
+    background-color: #222022;
+    color: #efedef;
+    padding-left: 10px;
+    font-family: "Geo Sans";
+    width: 150px;
+    height: 45px;
+    vertical-align: bottom;
+    border-radius: 25px;
+    font-size: large;
+
+}
+.Title3 {
+    font-family: "Geo Sans";
+    margin-top: auto;
+    margin-bottom: auto;
+    color: #f0efee;
+}
+.ContainerU {
+    margin-top: 20px;
+    border-radius: 25px;
+    background-color: #4c4947;
+    min-height: 60px;
+    width: 500px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+@font-face {
+    font-family: "Geo Sans";
+    src: url(GeosansLight.ttf);
+}

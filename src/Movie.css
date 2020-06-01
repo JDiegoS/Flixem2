@@ -1,0 +1,18 @@
+.Containerm {
+    margin-top: 15px;
+    border-radius: 25px;
+    background-color: #4c4947;
+    width: 800px;
+    height: 1220px;
+    margin-left: 200px;
+    margin-right: auto;
+}
+.Imagem {
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 250px;
+    padding-top: 13px;
+}

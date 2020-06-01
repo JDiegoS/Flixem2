@@ -1,0 +1,72 @@
+.App {
+    text-align: center;
+}
+
+.Logo {
+
+    height: 15vmin;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    pointer-events: none;
+
+}
+
+.Conten {
+    display: grid;
+    grid-template-columns: 300px 1300px;
+    margin-left: 30px;
+    grid-gap: 10px;
+}
+.List {
+    position: fixed;
+    border-radius: 25px;
+    background-color: #4c4947;
+    list-style-type: none;
+    height: 290px;
+    width: 220px;
+    margin-left: 20px;
+    margin-top: 0px;
+}
+.Icon {
+    height: 5vmin;
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: -5%;
+}
+.IconT.highlight{
+    transition: .2s;
+    color: #6ead3a
+}
+
+.IconT {
+    display: inline-flex;
+    font-size: 30px;
+    font-family: 'Geo Sans';
+    vertical-align: top;
+    margin-top: 15px;
+    color: #efedef;
+}
+
+.App-header {
+    background-color: #222022;
+    min-height: 950px;
+
+}
+
+@font-face {
+    font-family: "Lemon Milk";
+    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot");
+    src: url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.woff") format("woff"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/67137b5f6928edc941186baaab5a664b.svg#Lemon/Milk") format("svg");
+}
+
+@font-face {
+    font-family: "Geo Sans";
+    src:url(GeosansLight.ttf);
+}
+
+@font-face {
+    font-family: "Geo Sans Oblique";
+    src: url(GeosansLight-Oblique.ttf);
+}
