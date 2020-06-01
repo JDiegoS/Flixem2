@@ -4,7 +4,7 @@ Para este proyecto, se utilizó React JS para desarrollar la página web Fixem.
 
 Para correr el programa:
 
-Instalar Node.js (junto a esto se instalará npm automáticamente)
+Instalar Node.js (junto a esto se instalará npm automáticamente), cors y express
 
 Instalar react con el comando: npm install -S react
 
